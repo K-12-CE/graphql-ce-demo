@@ -1,0 +1,40 @@
+{
+    "users": [
+        {
+            "id": "10",
+            "firstName": "Viswa",
+            "age": 24,
+            "companyId": "100"
+        },
+        {
+            "id": "11",
+            "firstName": "Swarna",
+            "age": 25,
+            "companyId": "100"
+        },
+        {
+            "id": "12",
+            "firstName": "Beni",
+            "age": 24,
+            "companyId": "100"
+        },
+        {
+            "id": "13",
+            "firstName": "Jagan",
+            "age": 22,
+            "companyId": "100"
+        },
+        {
+            "id": "14",
+            "firstName": "Janani",
+            "age": 33,
+            "companyId": "100"
+        },
+        {
+            "id": "15",
+            "firstName": "Sai",
+            "age": 23,
+            "companyId": "200"
+        }
+    ]
+}
